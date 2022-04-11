@@ -26,6 +26,7 @@ public class Test6 {
         maxheap.add(18);
         maxheap.add(19);
         maxheap.add(20);
+        maxheap.add(80);
         System.out.println(minheap.toString());
         System.out.println(maxheap.toString());
 
